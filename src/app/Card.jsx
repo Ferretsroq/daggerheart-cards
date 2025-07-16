@@ -22,13 +22,13 @@ export default function Card({category, card, searchShow, setSearchShow, cardLis
     //const path = `/data/Cards/${category}/${card.name}.png`
     function SubclassDomains(subName, domain0, domain1)
     {
-        if(card.name.includes(subName) && !cardList.map(path => card.path).includes(path))
+        if(card.name.includes(subName) && !cardList.map(card => card.path).includes(path))
         {
             setEnabledDomains([...enabledDomains, domain0, domain1]);
         }
-        else if(card.name.includes(subName) && cardList.map(path => card.path).includes(path))
+        else if(card.name.includes(subName) && cardList.map(card => card.path).includes(path))
         {
-            let index = cardList.indexOf(domain0);
+            let index = enabledDomains.indexOf(domain0);
             const newList = enabledDomains.slice();
             newList.splice(index, 1);
             index = newList.indexOf(domain1);
@@ -38,6 +38,7 @@ export default function Card({category, card, searchShow, setSearchShow, cardLis
     }
     const clickHandler = (e) =>
     {
+        console.log('click');
         if(category === "Subclass")
         {
             SubclassDomains("beastbound", "Bone", "Sage");
@@ -61,16 +62,22 @@ export default function Card({category, card, searchShow, setSearchShow, cardLis
             SubclassDomains("wordsmith", "Grace", "Codex");
         }
         //if(!cardList.includes(path))
-        if(!cardList.map(path => card.path).includes(path))
+        if(!cardList.map(card => card.path).includes(path))
         {
             setCardList([...cardList, card]);
         }
         else
         {
-            const mappedList = cardList.map(path => card.path);
+            console.log("Duplicate path");
+            console.log(path);
+            const mappedList = cardList.map(card => card.path);
+            console.log('Mapped list');
+            console.log(mappedList);
             const index = mappedList.indexOf(path);
-            const newList = mappedList.slice();
+            const newList = cardList.slice();
             newList.splice(index, 1);
+            console.log('New list');
+            console.log(newList);
             setCardList([...newList]);
         }
         
