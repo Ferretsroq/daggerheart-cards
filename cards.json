@@ -1,0 +1,1378 @@
+{
+  "Ancestry": [
+    {
+      "id": 0,
+      "name": "clank",
+      "path": "/data/Cards/Ancestry/clank.png"
+    },
+    {
+      "id": 1,
+      "name": "drakona",
+      "path": "/data/Cards/Ancestry/drakona.png"
+    },
+    {
+      "id": 2,
+      "name": "dwarf",
+      "path": "/data/Cards/Ancestry/dwarf.png"
+    },
+    {
+      "id": 3,
+      "name": "elf",
+      "path": "/data/Cards/Ancestry/elf.png"
+    },
+    {
+      "id": 4,
+      "name": "faerie",
+      "path": "/data/Cards/Ancestry/faerie.png"
+    },
+    {
+      "id": 5,
+      "name": "faun",
+      "path": "/data/Cards/Ancestry/faun.png"
+    },
+    {
+      "id": 6,
+      "name": "firbolg",
+      "path": "/data/Cards/Ancestry/firbolg.png"
+    },
+    {
+      "id": 7,
+      "name": "fungril",
+      "path": "/data/Cards/Ancestry/fungril.png"
+    },
+    {
+      "id": 8,
+      "name": "galapa",
+      "path": "/data/Cards/Ancestry/galapa.png"
+    },
+    {
+      "id": 9,
+      "name": "giant",
+      "path": "/data/Cards/Ancestry/giant.png"
+    },
+    {
+      "id": 10,
+      "name": "goblin",
+      "path": "/data/Cards/Ancestry/goblin.png"
+    },
+    {
+      "id": 11,
+      "name": "halfling",
+      "path": "/data/Cards/Ancestry/halfling.png"
+    },
+    {
+      "id": 12,
+      "name": "human",
+      "path": "/data/Cards/Ancestry/human.png"
+    },
+    {
+      "id": 13,
+      "name": "infernis",
+      "path": "/data/Cards/Ancestry/infernis.png"
+    },
+    {
+      "id": 14,
+      "name": "katari",
+      "path": "/data/Cards/Ancestry/katari.png"
+    },
+    {
+      "id": 15,
+      "name": "orc",
+      "path": "/data/Cards/Ancestry/orc.png"
+    },
+    {
+      "id": 16,
+      "name": "ribbet",
+      "path": "/data/Cards/Ancestry/ribbet.png"
+    },
+    {
+      "id": 17,
+      "name": "simiah",
+      "path": "/data/Cards/Ancestry/simiah.png"
+    }
+  ],
+  "Community": [
+    {
+      "id": 18,
+      "name": "highborne",
+      "path": "/data/Cards/Community/highborne.png"
+    },
+    {
+      "id": 19,
+      "name": "loreborne",
+      "path": "/data/Cards/Community/loreborne.png"
+    },
+    {
+      "id": 20,
+      "name": "orderborne",
+      "path": "/data/Cards/Community/orderborne.png"
+    },
+    {
+      "id": 21,
+      "name": "ridgeborne",
+      "path": "/data/Cards/Community/ridgeborne.png"
+    },
+    {
+      "id": 22,
+      "name": "seaborne",
+      "path": "/data/Cards/Community/seaborne.png"
+    },
+    {
+      "id": 23,
+      "name": "slyborne",
+      "path": "/data/Cards/Community/slyborne.png"
+    },
+    {
+      "id": 24,
+      "name": "underborne",
+      "path": "/data/Cards/Community/underborne.png"
+    },
+    {
+      "id": 25,
+      "name": "wanderborne",
+      "path": "/data/Cards/Community/wanderborne.png"
+    },
+    {
+      "id": 26,
+      "name": "wildborne",
+      "path": "/data/Cards/Community/wildborne.png"
+    }
+  ],
+  "Domains": {
+    "Arcana": [
+      {
+        "id": 27,
+        "name": "adjust reality",
+        "path": "/data/Cards/Domains/Arcana/adjust reality.png"
+      },
+      {
+        "id": 28,
+        "name": "arcana-touched",
+        "path": "/data/Cards/Domains/Arcana/arcana-touched.png"
+      },
+      {
+        "id": 29,
+        "name": "arcane reflection",
+        "path": "/data/Cards/Domains/Arcana/arcane reflection.png"
+      },
+      {
+        "id": 30,
+        "name": "blink out",
+        "path": "/data/Cards/Domains/Arcana/blink out.png"
+      },
+      {
+        "id": 31,
+        "name": "chain lightning",
+        "path": "/data/Cards/Domains/Arcana/chain lightning.png"
+      },
+      {
+        "id": 32,
+        "name": "cinder grasp",
+        "path": "/data/Cards/Domains/Arcana/cinder grasp.png"
+      },
+      {
+        "id": 33,
+        "name": "cloaking blast",
+        "path": "/data/Cards/Domains/Arcana/cloaking blast.png"
+      },
+      {
+        "id": 34,
+        "name": "confusing aura",
+        "path": "/data/Cards/Domains/Arcana/confusing aura.png"
+      },
+      {
+        "id": 35,
+        "name": "counterspell",
+        "path": "/data/Cards/Domains/Arcana/counterspell.png"
+      },
+      {
+        "id": 36,
+        "name": "earthquake",
+        "path": "/data/Cards/Domains/Arcana/earthquake.png"
+      },
+      {
+        "id": 37,
+        "name": "falling sky",
+        "path": "/data/Cards/Domains/Arcana/falling sky.png"
+      },
+      {
+        "id": 38,
+        "name": "flight",
+        "path": "/data/Cards/Domains/Arcana/flight.png"
+      },
+      {
+        "id": 39,
+        "name": "floating eye",
+        "path": "/data/Cards/Domains/Arcana/floating eye.png"
+      },
+      {
+        "id": 40,
+        "name": "premonition",
+        "path": "/data/Cards/Domains/Arcana/premonition.png"
+      },
+      {
+        "id": 41,
+        "name": "preservation blast",
+        "path": "/data/Cards/Domains/Arcana/preservation blast.png"
+      },
+      {
+        "id": 42,
+        "name": "rift walker",
+        "path": "/data/Cards/Domains/Arcana/rift walker.png"
+      },
+      {
+        "id": 43,
+        "name": "rune ward",
+        "path": "/data/Cards/Domains/Arcana/rune ward.png"
+      },
+      {
+        "id": 44,
+        "name": "sensory projection",
+        "path": "/data/Cards/Domains/Arcana/sensory projection.png"
+      },
+      {
+        "id": 45,
+        "name": "telekinesis",
+        "path": "/data/Cards/Domains/Arcana/telekinesis.png"
+      },
+      {
+        "id": 46,
+        "name": "unleash chaos",
+        "path": "/data/Cards/Domains/Arcana/unleash chaos.png"
+      },
+      {
+        "id": 47,
+        "name": "wall walk",
+        "path": "/data/Cards/Domains/Arcana/wall walk.png"
+      }
+    ],
+    "Blade": [
+      {
+        "id": 48,
+        "name": "a soldiers bond",
+        "path": "/data/Cards/Domains/Blade/a soldiers bond.png"
+      },
+      {
+        "id": 49,
+        "name": "battle cry",
+        "path": "/data/Cards/Domains/Blade/battle cry.png"
+      },
+      {
+        "id": 50,
+        "name": "battle monster",
+        "path": "/data/Cards/Domains/Blade/battle monster.png"
+      },
+      {
+        "id": 51,
+        "name": "battle-hardened",
+        "path": "/data/Cards/Domains/Blade/battle-hardened.png"
+      },
+      {
+        "id": 52,
+        "name": "blade-touched",
+        "path": "/data/Cards/Domains/Blade/blade-touched.png"
+      },
+      {
+        "id": 53,
+        "name": "champions edge",
+        "path": "/data/Cards/Domains/Blade/champions edge.png"
+      },
+      {
+        "id": 54,
+        "name": "deadly focus",
+        "path": "/data/Cards/Domains/Blade/deadly focus.png"
+      },
+      {
+        "id": 55,
+        "name": "fortified armor",
+        "path": "/data/Cards/Domains/Blade/fortified armor.png"
+      },
+      {
+        "id": 56,
+        "name": "frenzy",
+        "path": "/data/Cards/Domains/Blade/frenzy.png"
+      },
+      {
+        "id": 57,
+        "name": "get back up",
+        "path": "/data/Cards/Domains/Blade/get back up.png"
+      },
+      {
+        "id": 58,
+        "name": "glancing blow",
+        "path": "/data/Cards/Domains/Blade/glancing blow.png"
+      },
+      {
+        "id": 59,
+        "name": "gore and glory",
+        "path": "/data/Cards/Domains/Blade/gore and glory.png"
+      },
+      {
+        "id": 60,
+        "name": "not good enough",
+        "path": "/data/Cards/Domains/Blade/not good enough.png"
+      },
+      {
+        "id": 61,
+        "name": "onslaught",
+        "path": "/data/Cards/Domains/Blade/onslaught.png"
+      },
+      {
+        "id": 62,
+        "name": "rage up",
+        "path": "/data/Cards/Domains/Blade/rage up.png"
+      },
+      {
+        "id": 63,
+        "name": "reaper strike",
+        "path": "/data/Cards/Domains/Blade/reaper strike.png"
+      },
+      {
+        "id": 64,
+        "name": "reckless",
+        "path": "/data/Cards/Domains/Blade/reckless.png"
+      },
+      {
+        "id": 65,
+        "name": "scramble",
+        "path": "/data/Cards/Domains/Blade/scramble.png"
+      },
+      {
+        "id": 66,
+        "name": "versatile fighter",
+        "path": "/data/Cards/Domains/Blade/versatile fighter.png"
+      },
+      {
+        "id": 67,
+        "name": "vitality",
+        "path": "/data/Cards/Domains/Blade/vitality.png"
+      },
+      {
+        "id": 68,
+        "name": "whirlwind",
+        "path": "/data/Cards/Domains/Blade/whirlwind.png"
+      }
+    ],
+    "Bone": [
+      {
+        "id": 69,
+        "name": "bone-touched",
+        "path": "/data/Cards/Domains/Bone/bone-touched.png"
+      },
+      {
+        "id": 70,
+        "name": "boost",
+        "path": "/data/Cards/Domains/Bone/boost.png"
+      },
+      {
+        "id": 71,
+        "name": "brace",
+        "path": "/data/Cards/Domains/Bone/brace.png"
+      },
+      {
+        "id": 72,
+        "name": "breaking blow",
+        "path": "/data/Cards/Domains/Bone/breaking blow.png"
+      },
+      {
+        "id": 73,
+        "name": "cruel precision",
+        "path": "/data/Cards/Domains/Bone/cruel precision.png"
+      },
+      {
+        "id": 74,
+        "name": "deathrun",
+        "path": "/data/Cards/Domains/Bone/deathrun.png"
+      },
+      {
+        "id": 75,
+        "name": "deft maneuvers",
+        "path": "/data/Cards/Domains/Bone/deft maneuvers.png"
+      },
+      {
+        "id": 76,
+        "name": "ferocity",
+        "path": "/data/Cards/Domains/Bone/ferocity.png"
+      },
+      {
+        "id": 77,
+        "name": "i see it coming",
+        "path": "/data/Cards/Domains/Bone/i see it coming.png"
+      },
+      {
+        "id": 78,
+        "name": "know thy enemy",
+        "path": "/data/Cards/Domains/Bone/know thy enemy.png"
+      },
+      {
+        "id": 79,
+        "name": "on the brink",
+        "path": "/data/Cards/Domains/Bone/on the brink.png"
+      },
+      {
+        "id": 80,
+        "name": "rapid riposte",
+        "path": "/data/Cards/Domains/Bone/rapid riposte.png"
+      },
+      {
+        "id": 81,
+        "name": "recovery",
+        "path": "/data/Cards/Domains/Bone/recovery.png"
+      },
+      {
+        "id": 82,
+        "name": "redirect",
+        "path": "/data/Cards/Domains/Bone/redirect.png"
+      },
+      {
+        "id": 83,
+        "name": "signature move",
+        "path": "/data/Cards/Domains/Bone/signature move.png"
+      },
+      {
+        "id": 84,
+        "name": "splintering strike",
+        "path": "/data/Cards/Domains/Bone/splintering strike.png"
+      },
+      {
+        "id": 85,
+        "name": "strategic approach",
+        "path": "/data/Cards/Domains/Bone/strategic approach.png"
+      },
+      {
+        "id": 86,
+        "name": "swift step",
+        "path": "/data/Cards/Domains/Bone/swift step.png"
+      },
+      {
+        "id": 87,
+        "name": "tactician",
+        "path": "/data/Cards/Domains/Bone/tactician.png"
+      },
+      {
+        "id": 88,
+        "name": "untouchable",
+        "path": "/data/Cards/Domains/Bone/untouchable.png"
+      },
+      {
+        "id": 89,
+        "name": "wrangle",
+        "path": "/data/Cards/Domains/Bone/wrangle.png"
+      }
+    ],
+    "Codex": [
+      {
+        "id": 90,
+        "name": "banish",
+        "path": "/data/Cards/Domains/Codex/banish.png"
+      },
+      {
+        "id": 91,
+        "name": "book of ava",
+        "path": "/data/Cards/Domains/Codex/book of ava.png"
+      },
+      {
+        "id": 92,
+        "name": "book of exota",
+        "path": "/data/Cards/Domains/Codex/book of exota.png"
+      },
+      {
+        "id": 93,
+        "name": "book of grynn",
+        "path": "/data/Cards/Domains/Codex/book of grynn.png"
+      },
+      {
+        "id": 94,
+        "name": "book of homet",
+        "path": "/data/Cards/Domains/Codex/book of homet.png"
+      },
+      {
+        "id": 95,
+        "name": "book of illiat",
+        "path": "/data/Cards/Domains/Codex/book of illiat.png"
+      },
+      {
+        "id": 96,
+        "name": "book of korvax",
+        "path": "/data/Cards/Domains/Codex/book of korvax.png"
+      },
+      {
+        "id": 97,
+        "name": "book of norai",
+        "path": "/data/Cards/Domains/Codex/book of norai.png"
+      },
+      {
+        "id": 98,
+        "name": "book of ronin",
+        "path": "/data/Cards/Domains/Codex/book of ronin.png"
+      },
+      {
+        "id": 99,
+        "name": "book of sitil",
+        "path": "/data/Cards/Domains/Codex/book of sitil.png"
+      },
+      {
+        "id": 100,
+        "name": "book of tyfar",
+        "path": "/data/Cards/Domains/Codex/book of tyfar.png"
+      },
+      {
+        "id": 101,
+        "name": "book of vagras",
+        "path": "/data/Cards/Domains/Codex/book of vagras.png"
+      },
+      {
+        "id": 102,
+        "name": "book of vyola",
+        "path": "/data/Cards/Domains/Codex/book of vyola.png"
+      },
+      {
+        "id": 103,
+        "name": "book of yarrow",
+        "path": "/data/Cards/Domains/Codex/book of yarrow.png"
+      },
+      {
+        "id": 104,
+        "name": "codex-touched",
+        "path": "/data/Cards/Domains/Codex/codex-touched.png"
+      },
+      {
+        "id": 105,
+        "name": "disintegration wave",
+        "path": "/data/Cards/Domains/Codex/disintegration wave.png"
+      },
+      {
+        "id": 106,
+        "name": "manifest wall",
+        "path": "/data/Cards/Domains/Codex/manifest wall.png"
+      },
+      {
+        "id": 107,
+        "name": "safe haven",
+        "path": "/data/Cards/Domains/Codex/safe haven.png"
+      },
+      {
+        "id": 108,
+        "name": "sigil of retribution",
+        "path": "/data/Cards/Domains/Codex/sigil of retribution.png"
+      },
+      {
+        "id": 109,
+        "name": "teleport",
+        "path": "/data/Cards/Domains/Codex/teleport.png"
+      },
+      {
+        "id": 110,
+        "name": "transcendent union",
+        "path": "/data/Cards/Domains/Codex/transcendent union.png"
+      }
+    ],
+    "Grace": [
+      {
+        "id": 111,
+        "name": "astral projection",
+        "path": "/data/Cards/Domains/Grace/astral projection.png"
+      },
+      {
+        "id": 112,
+        "name": "copycat",
+        "path": "/data/Cards/Domains/Grace/copycat.png"
+      },
+      {
+        "id": 113,
+        "name": "deft deceiver",
+        "path": "/data/Cards/Domains/Grace/deft deceiver.png"
+      },
+      {
+        "id": 114,
+        "name": "encore",
+        "path": "/data/Cards/Domains/Grace/encore.png"
+      },
+      {
+        "id": 115,
+        "name": "endless charisma",
+        "path": "/data/Cards/Domains/Grace/endless charisma.png"
+      },
+      {
+        "id": 116,
+        "name": "enrapture",
+        "path": "/data/Cards/Domains/Grace/enrapture.png"
+      },
+      {
+        "id": 117,
+        "name": "grace-touched",
+        "path": "/data/Cards/Domains/Grace/grace-touched.png"
+      },
+      {
+        "id": 118,
+        "name": "hypnotic shimmer",
+        "path": "/data/Cards/Domains/Grace/hypnotic shimmer.png"
+      },
+      {
+        "id": 119,
+        "name": "inspirational words",
+        "path": "/data/Cards/Domains/Grace/inspirational words.png"
+      },
+      {
+        "id": 120,
+        "name": "invisibility",
+        "path": "/data/Cards/Domains/Grace/invisibility.png"
+      },
+      {
+        "id": 121,
+        "name": "mass enrapture",
+        "path": "/data/Cards/Domains/Grace/mass enrapture.png"
+      },
+      {
+        "id": 122,
+        "name": "master of the craft",
+        "path": "/data/Cards/Domains/Grace/master of the craft.png"
+      },
+      {
+        "id": 123,
+        "name": "never upstaged",
+        "path": "/data/Cards/Domains/Grace/never upstaged.png"
+      },
+      {
+        "id": 124,
+        "name": "notorious",
+        "path": "/data/Cards/Domains/Grace/notorious.png"
+      },
+      {
+        "id": 125,
+        "name": "share the burden",
+        "path": "/data/Cards/Domains/Grace/share the burden.png"
+      },
+      {
+        "id": 126,
+        "name": "soothing speech",
+        "path": "/data/Cards/Domains/Grace/soothing speech.png"
+      },
+      {
+        "id": 127,
+        "name": "tell no lies",
+        "path": "/data/Cards/Domains/Grace/tell no lies.png"
+      },
+      {
+        "id": 128,
+        "name": "thought delver",
+        "path": "/data/Cards/Domains/Grace/thought delver.png"
+      },
+      {
+        "id": 129,
+        "name": "through your eyes",
+        "path": "/data/Cards/Domains/Grace/through your eyes.png"
+      },
+      {
+        "id": 130,
+        "name": "troublemaker",
+        "path": "/data/Cards/Domains/Grace/troublemaker.png"
+      },
+      {
+        "id": 131,
+        "name": "words of discord",
+        "path": "/data/Cards/Domains/Grace/words of discord.png"
+      }
+    ],
+    "Midnight": [
+      {
+        "id": 132,
+        "name": "chokehold",
+        "path": "/data/Cards/Domains/Midnight/chokehold.png"
+      },
+      {
+        "id": 133,
+        "name": "dark whispers",
+        "path": "/data/Cards/Domains/Midnight/dark whispers.png"
+      },
+      {
+        "id": 134,
+        "name": "eclipse",
+        "path": "/data/Cards/Domains/Midnight/eclipse.png"
+      },
+      {
+        "id": 135,
+        "name": "glyph of nightfall",
+        "path": "/data/Cards/Domains/Midnight/glyph of nightfall.png"
+      },
+      {
+        "id": 136,
+        "name": "hush",
+        "path": "/data/Cards/Domains/Midnight/hush.png"
+      },
+      {
+        "id": 137,
+        "name": "mass disguise",
+        "path": "/data/Cards/Domains/Midnight/mass disguise.png"
+      },
+      {
+        "id": 138,
+        "name": "midnight spirit",
+        "path": "/data/Cards/Domains/Midnight/midnight spirit.png"
+      },
+      {
+        "id": 139,
+        "name": "midnight-touched",
+        "path": "/data/Cards/Domains/Midnight/midnight-touched.png"
+      },
+      {
+        "id": 140,
+        "name": "night terror",
+        "path": "/data/Cards/Domains/Midnight/night terror.png"
+      },
+      {
+        "id": 141,
+        "name": "phantom retreat",
+        "path": "/data/Cards/Domains/Midnight/phantom retreat.png"
+      },
+      {
+        "id": 142,
+        "name": "pick and pull",
+        "path": "/data/Cards/Domains/Midnight/pick and pull.png"
+      },
+      {
+        "id": 143,
+        "name": "rain of blades",
+        "path": "/data/Cards/Domains/Midnight/rain of blades.png"
+      },
+      {
+        "id": 144,
+        "name": "shadowbind",
+        "path": "/data/Cards/Domains/Midnight/shadowbind.png"
+      },
+      {
+        "id": 145,
+        "name": "shadowhunter",
+        "path": "/data/Cards/Domains/Midnight/shadowhunter.png"
+      },
+      {
+        "id": 146,
+        "name": "specter of the dark",
+        "path": "/data/Cards/Domains/Midnight/specter of the dark.png"
+      },
+      {
+        "id": 147,
+        "name": "spellcharge",
+        "path": "/data/Cards/Domains/Midnight/spellcharge.png"
+      },
+      {
+        "id": 148,
+        "name": "stealth expertise",
+        "path": "/data/Cards/Domains/Midnight/stealth expertise.png"
+      },
+      {
+        "id": 149,
+        "name": "twilight toll",
+        "path": "/data/Cards/Domains/Midnight/twilight toll.png"
+      },
+      {
+        "id": 150,
+        "name": "uncanny disguise",
+        "path": "/data/Cards/Domains/Midnight/uncanny disguise.png"
+      },
+      {
+        "id": 151,
+        "name": "vanishing dodge",
+        "path": "/data/Cards/Domains/Midnight/vanishing dodge.png"
+      },
+      {
+        "id": 152,
+        "name": "veil of night",
+        "path": "/data/Cards/Domains/Midnight/veil of night.png"
+      }
+    ],
+    "Sage": [
+      {
+        "id": 153,
+        "name": "conjure swarm",
+        "path": "/data/Cards/Domains/Sage/conjure swarm.png"
+      },
+      {
+        "id": 154,
+        "name": "conjured steeds",
+        "path": "/data/Cards/Domains/Sage/conjured steeds.png"
+      },
+      {
+        "id": 155,
+        "name": "corrosive projectile",
+        "path": "/data/Cards/Domains/Sage/corrosive projectile.png"
+      },
+      {
+        "id": 156,
+        "name": "death grip",
+        "path": "/data/Cards/Domains/Sage/death grip.png"
+      },
+      {
+        "id": 157,
+        "name": "fane of the wilds",
+        "path": "/data/Cards/Domains/Sage/fane of the wilds.png"
+      },
+      {
+        "id": 158,
+        "name": "forager",
+        "path": "/data/Cards/Domains/Sage/forager.png"
+      },
+      {
+        "id": 159,
+        "name": "force of nature",
+        "path": "/data/Cards/Domains/Sage/force of nature.png"
+      },
+      {
+        "id": 160,
+        "name": "forest sprites",
+        "path": "/data/Cards/Domains/Sage/forest sprites.png"
+      },
+      {
+        "id": 161,
+        "name": "gifted tracker",
+        "path": "/data/Cards/Domains/Sage/gifted tracker.png"
+      },
+      {
+        "id": 162,
+        "name": "healing field",
+        "path": "/data/Cards/Domains/Sage/healing field.png"
+      },
+      {
+        "id": 163,
+        "name": "natural familiar",
+        "path": "/data/Cards/Domains/Sage/natural familiar.png"
+      },
+      {
+        "id": 164,
+        "name": "natures tongue",
+        "path": "/data/Cards/Domains/Sage/natures tongue.png"
+      },
+      {
+        "id": 165,
+        "name": "overwhelming aura",
+        "path": "/data/Cards/Domains/Sage/overwhelming aura.png"
+      },
+      {
+        "id": 166,
+        "name": "plant dominion",
+        "path": "/data/Cards/Domains/Sage/plant dominion.png"
+      },
+      {
+        "id": 167,
+        "name": "rejuvenation barrier",
+        "path": "/data/Cards/Domains/Sage/rejuvenation barrier.png"
+      },
+      {
+        "id": 168,
+        "name": "sage-touched",
+        "path": "/data/Cards/Domains/Sage/sage-touched.png"
+      },
+      {
+        "id": 169,
+        "name": "tempest",
+        "path": "/data/Cards/Domains/Sage/tempest.png"
+      },
+      {
+        "id": 170,
+        "name": "thorn skin",
+        "path": "/data/Cards/Domains/Sage/thorn skin.png"
+      },
+      {
+        "id": 171,
+        "name": "towering stalk",
+        "path": "/data/Cards/Domains/Sage/towering stalk.png"
+      },
+      {
+        "id": 172,
+        "name": "vicious entangle",
+        "path": "/data/Cards/Domains/Sage/vicious entangle.png"
+      },
+      {
+        "id": 173,
+        "name": "wild fortress",
+        "path": "/data/Cards/Domains/Sage/wild fortress.png"
+      },
+      {
+        "id": 174,
+        "name": "wild surge",
+        "path": "/data/Cards/Domains/Sage/wild surge.png"
+      }
+    ],
+    "Splendor": [
+      {
+        "id": 175,
+        "name": "bolt beacon",
+        "path": "/data/Cards/Domains/Splendor/bolt beacon.png"
+      },
+      {
+        "id": 176,
+        "name": "divination",
+        "path": "/data/Cards/Domains/Splendor/divination.png"
+      },
+      {
+        "id": 177,
+        "name": "final words",
+        "path": "/data/Cards/Domains/Splendor/final words.png"
+      },
+      {
+        "id": 178,
+        "name": "healing hands",
+        "path": "/data/Cards/Domains/Splendor/healing hands.png"
+      },
+      {
+        "id": 179,
+        "name": "healing strike",
+        "path": "/data/Cards/Domains/Splendor/healing strike.png"
+      },
+      {
+        "id": 180,
+        "name": "invigoration",
+        "path": "/data/Cards/Domains/Splendor/invigoration.png"
+      },
+      {
+        "id": 181,
+        "name": "life ward",
+        "path": "/data/Cards/Domains/Splendor/life ward.png"
+      },
+      {
+        "id": 182,
+        "name": "mending touch",
+        "path": "/data/Cards/Domains/Splendor/mending touch.png"
+      },
+      {
+        "id": 183,
+        "name": "reassurance",
+        "path": "/data/Cards/Domains/Splendor/reassurance.png"
+      },
+      {
+        "id": 184,
+        "name": "restoration",
+        "path": "/data/Cards/Domains/Splendor/restoration.png"
+      },
+      {
+        "id": 185,
+        "name": "resurrection",
+        "path": "/data/Cards/Domains/Splendor/resurrection.png"
+      },
+      {
+        "id": 186,
+        "name": "salvation beam",
+        "path": "/data/Cards/Domains/Splendor/salvation beam.png"
+      },
+      {
+        "id": 187,
+        "name": "second wind",
+        "path": "/data/Cards/Domains/Splendor/second wind.png"
+      },
+      {
+        "id": 188,
+        "name": "shape material",
+        "path": "/data/Cards/Domains/Splendor/shape material.png"
+      },
+      {
+        "id": 189,
+        "name": "shield aura",
+        "path": "/data/Cards/Domains/Splendor/shield aura.png"
+      },
+      {
+        "id": 190,
+        "name": "smite",
+        "path": "/data/Cards/Domains/Splendor/smite.png"
+      },
+      {
+        "id": 191,
+        "name": "splendor-touched",
+        "path": "/data/Cards/Domains/Splendor/splendor-touched.png"
+      },
+      {
+        "id": 192,
+        "name": "stunning sunlight",
+        "path": "/data/Cards/Domains/Splendor/stunning sunlight.png"
+      },
+      {
+        "id": 193,
+        "name": "voice of reason",
+        "path": "/data/Cards/Domains/Splendor/voice of reason.png"
+      },
+      {
+        "id": 194,
+        "name": "zone of protection",
+        "path": "/data/Cards/Domains/Splendor/zone of protection.png"
+      }
+    ],
+    "Valor": [
+      {
+        "id": 195,
+        "name": "armorer",
+        "path": "/data/Cards/Domains/Valor/armorer.png"
+      },
+      {
+        "id": 196,
+        "name": "barebones",
+        "path": "/data/Cards/Domains/Valor/barebones.png"
+      },
+      {
+        "id": 197,
+        "name": "body basher",
+        "path": "/data/Cards/Domains/Valor/body basher.png"
+      },
+      {
+        "id": 198,
+        "name": "bold presence",
+        "path": "/data/Cards/Domains/Valor/bold presence.png"
+      },
+      {
+        "id": 199,
+        "name": "critical inspiration",
+        "path": "/data/Cards/Domains/Valor/critical inspiration.png"
+      },
+      {
+        "id": 200,
+        "name": "forceful push",
+        "path": "/data/Cards/Domains/Valor/forceful push.png"
+      },
+      {
+        "id": 201,
+        "name": "full surge",
+        "path": "/data/Cards/Domains/Valor/full surge.png"
+      },
+      {
+        "id": 202,
+        "name": "goad them on",
+        "path": "/data/Cards/Domains/Valor/goad them on.png"
+      },
+      {
+        "id": 203,
+        "name": "ground pound",
+        "path": "/data/Cards/Domains/Valor/ground pound.png"
+      },
+      {
+        "id": 204,
+        "name": "hold the line",
+        "path": "/data/Cards/Domains/Valor/hold the line.png"
+      },
+      {
+        "id": 205,
+        "name": "i am your shield",
+        "path": "/data/Cards/Domains/Valor/i am your shield.png"
+      },
+      {
+        "id": 206,
+        "name": "inevitable",
+        "path": "/data/Cards/Domains/Valor/inevitable.png"
+      },
+      {
+        "id": 207,
+        "name": "lead by example",
+        "path": "/data/Cards/Domains/Valor/lead by example.png"
+      },
+      {
+        "id": 208,
+        "name": "lean on me",
+        "path": "/data/Cards/Domains/Valor/lean on me.png"
+      },
+      {
+        "id": 209,
+        "name": "rise up",
+        "path": "/data/Cards/Domains/Valor/rise up.png"
+      },
+      {
+        "id": 210,
+        "name": "rousing strike",
+        "path": "/data/Cards/Domains/Valor/rousing strike.png"
+      },
+      {
+        "id": 211,
+        "name": "shrug it off",
+        "path": "/data/Cards/Domains/Valor/shrug it off.png"
+      },
+      {
+        "id": 212,
+        "name": "support tank",
+        "path": "/data/Cards/Domains/Valor/support tank.png"
+      },
+      {
+        "id": 213,
+        "name": "unbreakable",
+        "path": "/data/Cards/Domains/Valor/unbreakable.png"
+      },
+      {
+        "id": 214,
+        "name": "unyielding armor",
+        "path": "/data/Cards/Domains/Valor/unyielding armor.png"
+      },
+      {
+        "id": 215,
+        "name": "valor-touched",
+        "path": "/data/Cards/Domains/Valor/valor-touched.png"
+      }
+    ]
+  },
+  "Subclass": [
+    {
+      "id": 216,
+      "name": "beastbound foundation",
+      "path": "/data/Cards/Subclass/beastbound foundation.png"
+    },
+    {
+      "id": 217,
+      "name": "beastbound mastery",
+      "path": "/data/Cards/Subclass/beastbound mastery.png"
+    },
+    {
+      "id": 218,
+      "name": "beastbound spec",
+      "path": "/data/Cards/Subclass/beastbound spec.png"
+    },
+    {
+      "id": 219,
+      "name": "call of the  brave foundation",
+      "path": "/data/Cards/Subclass/call of the  brave foundation.png"
+    },
+    {
+      "id": 220,
+      "name": "call of the brave mastery",
+      "path": "/data/Cards/Subclass/call of the brave mastery.png"
+    },
+    {
+      "id": 221,
+      "name": "call of the brave spec",
+      "path": "/data/Cards/Subclass/call of the brave spec.png"
+    },
+    {
+      "id": 222,
+      "name": "call of the slayer foundation",
+      "path": "/data/Cards/Subclass/call of the slayer foundation.png"
+    },
+    {
+      "id": 223,
+      "name": "call of the slayer mastery",
+      "path": "/data/Cards/Subclass/call of the slayer mastery.png"
+    },
+    {
+      "id": 224,
+      "name": "call of the slayer spec",
+      "path": "/data/Cards/Subclass/call of the slayer spec.png"
+    },
+    {
+      "id": 225,
+      "name": "divine wielder foundation",
+      "path": "/data/Cards/Subclass/divine wielder foundation.png"
+    },
+    {
+      "id": 226,
+      "name": "divine wielder mastery",
+      "path": "/data/Cards/Subclass/divine wielder mastery.png"
+    },
+    {
+      "id": 227,
+      "name": "divine wielder spec",
+      "path": "/data/Cards/Subclass/divine wielder spec.png"
+    },
+    {
+      "id": 228,
+      "name": "elemental origin foundation",
+      "path": "/data/Cards/Subclass/elemental origin foundation.png"
+    },
+    {
+      "id": 229,
+      "name": "elemental origin mastery",
+      "path": "/data/Cards/Subclass/elemental origin mastery.png"
+    },
+    {
+      "id": 230,
+      "name": "elemental origin spec",
+      "path": "/data/Cards/Subclass/elemental origin spec.png"
+    },
+    {
+      "id": 231,
+      "name": "nightwalker foundation",
+      "path": "/data/Cards/Subclass/nightwalker foundation.png"
+    },
+    {
+      "id": 232,
+      "name": "nightwalker mastery",
+      "path": "/data/Cards/Subclass/nightwalker mastery.png"
+    },
+    {
+      "id": 233,
+      "name": "nightwalker spec",
+      "path": "/data/Cards/Subclass/nightwalker spec.png"
+    },
+    {
+      "id": 234,
+      "name": "primal origin foundation",
+      "path": "/data/Cards/Subclass/primal origin foundation.png"
+    },
+    {
+      "id": 235,
+      "name": "primal origin mastery",
+      "path": "/data/Cards/Subclass/primal origin mastery.png"
+    },
+    {
+      "id": 236,
+      "name": "primal origin spec",
+      "path": "/data/Cards/Subclass/primal origin spec.png"
+    },
+    {
+      "id": 237,
+      "name": "school of knowledge foundation",
+      "path": "/data/Cards/Subclass/school of knowledge foundation.png"
+    },
+    {
+      "id": 238,
+      "name": "school of knowledge mastery",
+      "path": "/data/Cards/Subclass/school of knowledge mastery.png"
+    },
+    {
+      "id": 239,
+      "name": "school of knowledge spec",
+      "path": "/data/Cards/Subclass/school of knowledge spec.png"
+    },
+    {
+      "id": 240,
+      "name": "school of war foundation",
+      "path": "/data/Cards/Subclass/school of war foundation.png"
+    },
+    {
+      "id": 241,
+      "name": "school of war mastery",
+      "path": "/data/Cards/Subclass/school of war mastery.png"
+    },
+    {
+      "id": 242,
+      "name": "school of war spec",
+      "path": "/data/Cards/Subclass/school of war spec.png"
+    },
+    {
+      "id": 243,
+      "name": "stalwart foundation",
+      "path": "/data/Cards/Subclass/stalwart foundation.png"
+    },
+    {
+      "id": 244,
+      "name": "stalwart mastery",
+      "path": "/data/Cards/Subclass/stalwart mastery.png"
+    },
+    {
+      "id": 245,
+      "name": "stalwart spec",
+      "path": "/data/Cards/Subclass/stalwart spec.png"
+    },
+    {
+      "id": 246,
+      "name": "syndicate foundation",
+      "path": "/data/Cards/Subclass/syndicate foundation.png"
+    },
+    {
+      "id": 247,
+      "name": "syndicate mastery",
+      "path": "/data/Cards/Subclass/syndicate mastery.png"
+    },
+    {
+      "id": 248,
+      "name": "syndicate spec",
+      "path": "/data/Cards/Subclass/syndicate spec.png"
+    },
+    {
+      "id": 249,
+      "name": "troubador foundation",
+      "path": "/data/Cards/Subclass/troubador foundation.png"
+    },
+    {
+      "id": 250,
+      "name": "troubador mastery",
+      "path": "/data/Cards/Subclass/troubador mastery.png"
+    },
+    {
+      "id": 251,
+      "name": "troubador spec",
+      "path": "/data/Cards/Subclass/troubador spec.png"
+    },
+    {
+      "id": 252,
+      "name": "vengeance foundation",
+      "path": "/data/Cards/Subclass/vengeance foundation.png"
+    },
+    {
+      "id": 253,
+      "name": "vengeance mastery",
+      "path": "/data/Cards/Subclass/vengeance mastery.png"
+    },
+    {
+      "id": 254,
+      "name": "vengeance spec",
+      "path": "/data/Cards/Subclass/vengeance spec.png"
+    },
+    {
+      "id": 255,
+      "name": "warden of renewal foundation",
+      "path": "/data/Cards/Subclass/warden of renewal foundation.png"
+    },
+    {
+      "id": 256,
+      "name": "warden of renewal mastery",
+      "path": "/data/Cards/Subclass/warden of renewal mastery.png"
+    },
+    {
+      "id": 257,
+      "name": "warden of renewal spec",
+      "path": "/data/Cards/Subclass/warden of renewal spec.png"
+    },
+    {
+      "id": 258,
+      "name": "warden of the elements foundation",
+      "path": "/data/Cards/Subclass/warden of the elements foundation.png"
+    },
+    {
+      "id": 259,
+      "name": "warden of the elements mastery",
+      "path": "/data/Cards/Subclass/warden of the elements mastery.png"
+    },
+    {
+      "id": 260,
+      "name": "warden of the elements spec",
+      "path": "/data/Cards/Subclass/warden of the elements spec.png"
+    },
+    {
+      "id": 261,
+      "name": "wayfinder foundation",
+      "path": "/data/Cards/Subclass/wayfinder foundation.png"
+    },
+    {
+      "id": 262,
+      "name": "wayfinder mastery",
+      "path": "/data/Cards/Subclass/wayfinder mastery.png"
+    },
+    {
+      "id": 263,
+      "name": "wayfinder spec",
+      "path": "/data/Cards/Subclass/wayfinder spec.png"
+    },
+    {
+      "id": 264,
+      "name": "winged sentinel foundation",
+      "path": "/data/Cards/Subclass/winged sentinel foundation.png"
+    },
+    {
+      "id": 265,
+      "name": "winged sentinel mastery",
+      "path": "/data/Cards/Subclass/winged sentinel mastery.png"
+    },
+    {
+      "id": 266,
+      "name": "winged sentinel spec",
+      "path": "/data/Cards/Subclass/winged sentinel spec.png"
+    },
+    {
+      "id": 267,
+      "name": "wordsmith foundation",
+      "path": "/data/Cards/Subclass/wordsmith foundation.png"
+    },
+    {
+      "id": 268,
+      "name": "wordsmith mastery",
+      "path": "/data/Cards/Subclass/wordsmith mastery.png"
+    },
+    {
+      "id": 269,
+      "name": "wordsmith spec",
+      "path": "/data/Cards/Subclass/wordsmith spec.png"
+    }
+  ]
+}
