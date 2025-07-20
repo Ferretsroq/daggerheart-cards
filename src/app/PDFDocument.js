@@ -50,20 +50,27 @@ function PDFDocument({ data })
       console.log('rows!!');
       console.log('Data');
       console.log(data);
-      //setRows([]);
+      setRows([]);
       for(let imageIndex = 0; imageIndex < data.length; imageIndex++)
       {
           if(imageIndex%3 == 0)
           {
-              setRows([...rows, (<View style={styles.section} key={keyIndex}>
-                  <Image src={`http://localhost:3001/img/category/${data[imageIndex].category}/name/${data[imageIndex].name}`} style={styles.image}/>
-                  {data.length > imageIndex+1 && <Image src={`http://localhost:3001/img/category/${data[imageIndex+1].category}/name/${data[imageIndex+1].name}`} style={styles.image}/>}
-                  {data.length > imageIndex+2 && <Image src={`http://localhost:3001/img/category/${data[imageIndex+2].category}/name/${data[imageIndex+2].name}`} style={styles.image}/>}
-              </View>)]);
+            const domainString0 = data[imageIndex].domain != "N/A" ? `Domain/${data[imageIndex].domain}/` : "";
+            const domainString1 = data.length > imageIndex+1 && data[imageIndex+1].domain != "N/A" ? `Domain/${data[imageIndex+1].domain}/` : "";
+            const domainString2 = data.length > imageIndex+2 && data[imageIndex+2].domain != "N/A" ? `Domain/${data[imageIndex+2].domain}/` : "";
+
+              setRows(rows => [...rows, <View style={styles.section} key={keyIndex}>
+                  <Image src={`http://localhost:3001/img/category/${data[imageIndex].category}/${domainString0}name/${data[imageIndex].name}`} style={styles.image}/>
+                  {data.length > imageIndex+1 && <Image src={`http://localhost:3001/img/category/${data[imageIndex+1].category}/${domainString1}name/${data[imageIndex+1].name}`} style={styles.image}/>}
+                  {data.length > imageIndex+2 && <Image src={`http://localhost:3001/img/category/${data[imageIndex+2].category}/${domainString2}name/${data[imageIndex+2].name}`} style={styles.image}/>}
+              </View>]);
               setKeyIndex(keyIndex+1);
           }
       }
     }, [data]);
+
+
+
     /*for(let imageIndex = 0; imageIndex < imageComponents.length; imageIndex++)
     {
         if(imageIndex%3 == 0)

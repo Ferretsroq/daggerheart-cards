@@ -17,8 +17,10 @@ export default function Card({category, card, searchShow, setSearchShow, cardLis
     const {getReferenceProps, getFloatingProps} = useInteractions([
         hover,
       ]);
+    
     const path = card.path;
     const name = card.name;
+    const domainString = card.domain != "N/A" ? `Domain/${card.domain}/` : "";
     //const path = `/data/Cards/${category}/${card.name}.png`
     function SubclassDomains(subName, domain0, domain1)
     {
@@ -68,16 +70,10 @@ export default function Card({category, card, searchShow, setSearchShow, cardLis
         }
         else
         {
-            console.log("Duplicate path");
-            console.log(path);
             const mappedList = cardList.map(card => card.path);
-            console.log('Mapped list');
-            console.log(mappedList);
             const index = mappedList.indexOf(path);
             const newList = cardList.slice();
             newList.splice(index, 1);
-            console.log('New list');
-            console.log(newList);
             setCardList([...newList]);
         }
         
@@ -98,7 +94,7 @@ export default function Card({category, card, searchShow, setSearchShow, cardLis
         <div>
             {searchShow && <button ref={refs.setReference} onMouseEnter={() => hoverHandler()} onMouseLeave={() => leaveHandler()} onClick={() => clickHandler()}>{card.name}</button>}
             {isOpen && (<div ref={refs.setFloating} style={floatingStyles}>
-                <img src={`http://localhost:3001/img/category/${category}/name/${name}`} width="50%" height="50%"/>
+                <img src={`http://localhost:3001/img/category/${category}/${domainString}name/${name}`} width="50%" height="50%"/>
             </div>)}
         </div>
     )
