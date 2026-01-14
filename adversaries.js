@@ -69,7 +69,7 @@ for(let adversaryIndex = 0; adversaryIndex < adversaryData.length; adversaryInde
     }
 
     const buffer = canvas.toBuffer('image/png');
-    fs.writeFileSync(`test${adversaryIndex}.png`, buffer);
+    fs.writeFileSync(`./adversaries/${adversary.name["en-US"]}.png`, buffer);
 }
 
 function TopText(adversary, context, scaling, width)
@@ -141,6 +141,12 @@ function DetermineFeatFontSize(adversary, context, scaling, width, heightPixels)
             let wordIndex = 0;
             lineIndex++;
             context.font = `bold ${scaling/fontDenominator}px sans`;
+            while(context.measureText(adversary.features[featIndex].name["en-US"]).width > width)
+            {
+                fontDenominator += 0.05;
+                spacing = 1/fontDenominator;
+                context.font = `bold ${scaling/fontDenominator}px sans`;
+            }
             //pixelHeight += (scaling/fontDenominator)*0.8;
             pixelHeight += lineHeight;
             context.font = `${scaling/fontDenominator}px sans`;
@@ -180,6 +186,7 @@ function DetermineFeatFontSize(adversary, context, scaling, width, heightPixels)
             //pixelHeight += (2*scaling/fontDenominator) + (spacing*scaling)*2;
 
         }
+        pixelHeight += lineHeight;
         console.log(pixelHeight);
     }
     
