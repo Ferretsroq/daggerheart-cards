@@ -22,6 +22,10 @@ for(let adversaryIndex = 0; adversaryIndex < adversaryData.length; adversaryInde
     context.fillRect(0, 0, width, height);
 
     context.fillStyle = 'black';
+    context.fillRect(0, 0, width, 2);
+    context.fillRect(0, 0, 2, height);
+    context.fillRect(width-2, 0, width, height);
+    context.fillRect(0, height-2, width, height);
 
     TopText(adversary, context, scaling, width);
     let [spacing, fontDenominator] = DetermineFeatFontSize(adversary, context, scaling, width, heightPixels);

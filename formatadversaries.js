@@ -27,7 +27,7 @@ for(let adversaryIndex = 0; adversaryIndex < adversaryData.length; adversaryInde
     const im = new Image();
     const data = fs.readFileSync(`./adversaries/${adversaryData[adversaryIndex].name["en-US"]}.png`);
     im.src = data;
-    context.drawImage(im, (0.25*ppi)+((adversaryIndex%6)%3)*(2.75*ppi), (0.25*ppi)+(Math.floor((adversaryIndex%6)/3))*(4.75*ppi));
+    context.drawImage(im, (0.125*ppi)+((adversaryIndex%6)%3)*(2.75*ppi), (0.25*ppi)+(Math.floor((adversaryIndex%6)/3))*(4.75*ppi));
 }
 
 /*for(let imIndex = 0; imIndex < 6; imIndex++)
