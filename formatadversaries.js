@@ -29,6 +29,9 @@ for(let adversaryIndex = 0; adversaryIndex < adversaryData.length; adversaryInde
     im.src = data;
     context.drawImage(im, (0.125*ppi)+((adversaryIndex%6)%3)*(2.75*ppi), (0.25*ppi)+(Math.floor((adversaryIndex%6)/3))*(4.75*ppi));
 }
+const buffer = canvas.toBuffer('image/png');
+fs.writeFileSync(`page${Math.ceil(adversaryData.length/6)}.png`, buffer);
+
 
 /*for(let imIndex = 0; imIndex < 6; imIndex++)
 {
